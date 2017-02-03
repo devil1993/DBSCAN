@@ -1,4 +1,6 @@
 # DBSCAN
+This reposetory contains a simple implementation of DBSCAN algorithm using GNU OCTAVE.
+
 DBSCAN is a popular clustering algorithm. It creates clusters on a spatial data depending on two parameters:
 
 1. MinPoints: minimum number of points needed in its neighbourhood to consider it as a valid data(not noise).
